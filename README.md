@@ -1,5 +1,9 @@
 # kiosk-mode
 
+Rony:  
+importováno z již nepodporované repozitoře:  
+https://github.com/maykar/kiosk-mode.git
+
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-yellow.svg)](https://github.com/custom-components/hacs) [![hacs_badge](https://img.shields.io/badge/Buy-Me%20a%20Coffee-critical)](https://www.buymeacoffee.com/FgwNR2l)
 
 Hides the header and/or sidebar drawer in [Home Assistant](https://www.home-assistant.io/)
